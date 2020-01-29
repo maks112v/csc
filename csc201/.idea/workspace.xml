@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8745d46e-d041-4f0c-a2a4-934c658718a4" name="Default Changelist" comment="" />
+    <list default="true" id="8745d46e-d041-4f0c-a2a4-934c658718a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/chapter1/src/ch01lab1/TrainWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/src/lecture/ComputingTotalCost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/src/lecture/ShippingCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/src/lecture/SpaceRemover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/src/lecture/SphereVolumeCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,9 +40,61 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch01lab1.Hello" />
+  <component name="RunManager" selected="Application.TrainWeight">
+    <configuration name="ShippingCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture.ShippingCalculator" />
+      <module name="chapter1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpaceRemover" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture.SpaceRemover" />
+      <module name="chapter1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpaceReplace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture.SpaceReplace" />
+      <module name="chapter1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SphereVolumeCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture.SphereVolumeCalculator" />
+      <module name="chapter1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrainWeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch01lab1.TrainWeight" />
       <module name="chapter1" />
       <extension name="coverage">
         <pattern>
@@ -49,7 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.TrainWeight" />
+        <item itemvalue="Application.SpaceRemover" />
+        <item itemvalue="Application.SpaceReplace" />
+        <item itemvalue="Application.ShippingCalculator" />
+        <item itemvalue="Application.SphereVolumeCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -83,24 +146,28 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="400" y="200" width="811" height="669" key="#Project_Structure/0.23.1792.1097@0.23.1792.1097" timestamp="1579111213609" />
-    <state width="1358" height="217" key="GridCell.Tab.0.bottom" timestamp="1579324766948">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1580319108929">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580319108929" />
     <state width="1358" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1579324766948" />
     <state width="1358" height="271" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1579113656330" />
-    <state width="1358" height="217" key="GridCell.Tab.0.center" timestamp="1579324766947">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1580319108929">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580319108929" />
     <state width="1358" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1579324766947" />
     <state width="1358" height="271" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1579113656330" />
-    <state width="1358" height="217" key="GridCell.Tab.0.left" timestamp="1579324766946">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1580319108928">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580319108928" />
     <state width="1358" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1579324766946" />
     <state width="1358" height="271" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1579113656329" />
-    <state width="1358" height="217" key="GridCell.Tab.0.right" timestamp="1579324766947">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1580319108929">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580319108929" />
     <state width="1358" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1579324766947" />
     <state width="1358" height="271" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1579113656330" />
     <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1579324739159">
