@@ -12,6 +12,7 @@ public class GeometryCalc {
 
     /**
      * Calls various methods and defines variables
+     * @param args
      */
     public static void main(String[] args) {
         Scanner scnr = new Scanner(System.in);

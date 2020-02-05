@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8745d46e-d041-4f0c-a2a4-934c658718a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter1/src/ch01lab1/GeometryCalc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/src/lecture/SpaceRemover.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/src/lecture/SpaceRemover.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chapter1/ch01lab1/TrainWeight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter1/ch01lab1/TrainWeight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/src/ch01lab1/GeometryCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/src/ch01lab1/GeometryCalc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
