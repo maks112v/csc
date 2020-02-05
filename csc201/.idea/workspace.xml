@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8745d46e-d041-4f0c-a2a4-934c658718a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/src/ch01lab1/GeometryCalc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/src/ch01lab1/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/src/ch01lab1/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/src/ch01lab1/TrainWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/src/ch01lab1/TrainWeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/src/lecture/SpaceRemover.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/src/lecture/SpaceRemover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter1/ch01lab1/TrainWeight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter1/ch01lab1/TrainWeight.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,14 +34,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Markdown" />
   </component>
-  <component name="RunManager" selected="Application.Hello">
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch01lab1.Hello" />
+  <component name="RunManager" selected="Application.GeometryCalc">
+    <configuration name="GeometryCalc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch01lab1.GeometryCalc" />
       <module name="chapter1" />
       <extension name="coverage">
         <pattern>
@@ -51,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShippingCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture.ShippingCalculator" />
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch01lab1.Hello" />
       <module name="chapter1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lecture.*" />
+          <option name="PATTERN" value="ch01lab1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GeometryCalc" />
+        <item itemvalue="Application.SpaceRemover" />
         <item itemvalue="Application.Hello" />
         <item itemvalue="Application.TrainWeight" />
-        <item itemvalue="Application.SpaceRemover" />
         <item itemvalue="Application.SpaceReplace" />
-        <item itemvalue="Application.ShippingCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -143,30 +147,38 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="400" y="200" width="811" height="669" key="#Project_Structure/0.23.1792.1097@0.23.1792.1097" timestamp="1579111213609" />
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1580322094407">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1750" height="317" key="GridCell.Tab.0.bottom" timestamp="1580925327653">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580322094407" />
+    <state width="1750" height="317" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1580925327653" />
     <state width="1358" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1579324766948" />
     <state width="1358" height="271" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1579113656330" />
-    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1580322094406">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1750" height="317" key="GridCell.Tab.0.center" timestamp="1580925327652">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580322094406" />
+    <state width="1750" height="317" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1580925327652" />
     <state width="1358" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1579324766947" />
     <state width="1358" height="271" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1579113656330" />
-    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1580322094406">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1750" height="317" key="GridCell.Tab.0.left" timestamp="1580925327651">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580322094406" />
+    <state width="1750" height="317" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1580925327651" />
     <state width="1358" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1579324766946" />
     <state width="1358" height="271" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1579113656329" />
-    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1580322094407">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1750" height="317" key="GridCell.Tab.0.right" timestamp="1580925327652">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580322094407" />
+    <state width="1750" height="317" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1580925327652" />
     <state width="1358" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1579324766947" />
     <state width="1358" height="271" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1579113656330" />
+    <state x="397" y="199" key="SettingsEditor" timestamp="1580925391627">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1580925391627" />
     <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1579324739159">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
