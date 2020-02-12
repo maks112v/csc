@@ -15,6 +15,7 @@ public class Geometry {
 
     /**
      * Calls various methods and defines variables
+     *
      * @param args unused
      */
     public static void main(String[] args) {
@@ -35,6 +36,7 @@ public class Geometry {
 
     /**
      * Gets multiple user inputs
+     *
      * @param description gets name of current required measurement
      * @return user input as double
      */
@@ -46,6 +48,7 @@ public class Geometry {
 
     /**
      * calc area circle
+     *
      * @param diameter user input for diameter
      * @return double of area
      */
@@ -55,8 +58,9 @@ public class Geometry {
 
     /**
      * calc area of square
+     *
      * @param length user length
-     * @param width user width
+     * @param width  user width
      * @return double of area
      */
     public static double calcArea(double length, double width) {
@@ -65,6 +69,7 @@ public class Geometry {
 
     /**
      * calc sphere volume
+     *
      * @param diameter user diameter
      * @return double of volume
      */
@@ -75,8 +80,9 @@ public class Geometry {
 
     /**
      * calc box volume
+     *
      * @param length user length
-     * @param width user width
+     * @param width  user width
      * @param height user height
      * @return double of volume
      */
@@ -86,6 +92,7 @@ public class Geometry {
 
     /**
      * Calls and prints diameter calc
+     *
      * @param diameter user diameter
      */
     public static void displayInfo(double diameter) {
@@ -96,8 +103,9 @@ public class Geometry {
 
     /**
      * Calls and prints box calc
+     *
      * @param length user length
-     * @param width user width
+     * @param width  user width
      * @param height user height
      */
     public static void displayInfo(double length, double width, double height) {
