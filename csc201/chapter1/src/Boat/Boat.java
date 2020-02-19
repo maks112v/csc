@@ -8,12 +8,12 @@ package Boat;
  * @author Matt Nawton
  */
 public class Boat {
-    private String name;
-    private String type;
-    private double length;
+    private String name; // Name of this boat
+    private String type; // Type of this boat
+    private double length; // Length of this boat
 
     /**
-     * Returns name of current boat instance
+     * Returns name of current boat instanc
      * @return string of boat name
      */
     public String getName(){

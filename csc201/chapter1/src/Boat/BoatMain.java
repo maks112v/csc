@@ -27,6 +27,7 @@ public class BoatMain {
         boat1.setLength(scnr.nextDouble()); // User input for boat 1 length
 
         scnr.nextLine();
+
         System.out.print("Please enter the name of boat #2: ");
         boat2.setName(scnr.nextLine()); // User input for boat 2 name
         System.out.print("Please enter the type of boat #2: ");
