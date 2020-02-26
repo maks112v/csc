@@ -4,6 +4,8 @@ package Boat2;
  * Boat Class
  * 2020/02/26
  * @author Maksim Vakarchuk
+ * @author Lukas Harris
+ * @author Mike Miller
  */
 public class Boat {
     private String name; // Name of this boat

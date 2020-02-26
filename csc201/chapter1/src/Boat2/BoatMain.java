@@ -5,6 +5,8 @@ import java.util.Scanner;
  * Boat Init
  * 2020/02/19
  * @author Maksim Vakarchuk
+ * @author Lukas Harris
+ * @author Mike Miller
  */
 public class BoatMain {
     private static Scanner scnr = new Scanner(System.in); // User Input Scanner
